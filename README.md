@@ -33,7 +33,7 @@ There is an additional `.csv.gz` file with the Airbnb Lisbon data used in the an
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/...).
+The main findings of the code can be found at the post available [here](https://marta-a-valente.medium.com/what-if-you-can-leverage-your-airbnb-review-score-with-little-effort-3f3ace22534a).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
